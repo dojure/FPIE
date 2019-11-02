@@ -1,0 +1,3 @@
+step 40000, iphone | discriminator accuracy | train: 0.5052, test: 0.5101
+generator losses | train: 63.03, test: 80.79 | content: 6.502, color: 94.25, texture: -35.96, tv: 0.002298 | psnr: 20.23, ssim: 0.922
+
