@@ -1,4 +1,4 @@
-# Fast Perceptual Image Enhancement
+# Fast Perceptual Image Enhancement [[Paper]](https://arxiv.org/abs/1812.11852)
 
 #### Prerequisites
 
