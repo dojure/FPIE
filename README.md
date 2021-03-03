@@ -24,7 +24,7 @@ python train_model.py model=iphone num_train_iters=40000 run=replication convdec
 #### Test the provided pre-trained model
 
 ```bash
-python test_model.py model=iphone_orig test_subset=fullresolution=orig use_gpu=true
+python test_model.py model=iphone_orig test_subset=full resolution=orig use_gpu=true
 ```
 
 Optional parameters:
